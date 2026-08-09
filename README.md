@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### Wanna talk? >>>>>>
+## Hi there 👋 Trying to reach out?
 
 [Well...Click Me 🙃](https://sam3360.github.io/ContactMe/)
 --- 
