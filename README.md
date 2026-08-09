@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Wanna talk? >>>>>>
+# Wanna talk? >>>>>>
 
 [Well...Click Me 🙃](https://sam3360.github.io/ContactMe/)
 --- 
