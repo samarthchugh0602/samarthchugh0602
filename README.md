@@ -7,4 +7,4 @@
 
 ---
 
-### This is a school account and will be disabled within the next 1 and a half years (in/around 2028)
+### ⚠️ This is a school account and will be disabled within the next 1 and a half years (in/around 2028)
